@@ -10,7 +10,7 @@ sections:
       title: |
           南京大学企业家研究所
       image:
-        filename: welcome.jpg
+        filename: fenmian.jpg
       text: |
         <br>
         
@@ -68,12 +68,4 @@ sections:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
