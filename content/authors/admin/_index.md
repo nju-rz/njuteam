@@ -30,7 +30,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zheng@nju.edu.cn'
+    link: 'zhengjh@nju.edu.cn'
 
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhengjh@nju.edu.cn''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
