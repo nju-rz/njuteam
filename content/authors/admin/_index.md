@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
- bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 研究领域:
   - 产业经济学
@@ -30,7 +30,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhengjh@nju.edu.cn'
+    link: 'zheng@nju.edu.cn'
 
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'zhengjh@nju.edu.cn''
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
