@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+研究领域:
   - 产业经济学
   - 创新经济学
   - 全球价值链
