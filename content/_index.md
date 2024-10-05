@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+          南京大学企业家研究所
       image:
         filename: welcome.jpg
       text: |
